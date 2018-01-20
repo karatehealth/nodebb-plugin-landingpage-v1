@@ -1,25 +1,23 @@
 {
-  "name": "nodebb-plugin-quickstart",
-  "version": "0.2.3",
-  "description": "A starter kit for quickly creating NodeBB plugins",
+  "name": "nodebb-plugin-landingpage-v1",
+  "version": "0.0.1",
+  "description": "Playing with nodebb plugins",
   "main": "library.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/psychobunny/nodebb-plugin-quickstart"
+    "url": "https://github.com/karatehealth/nodebb-plugin-landingpage-v1"
   },
   "keywords": [
     "nodebb",
-    "plugin",
-    "quickstart",
-    "shell"
+    "plugin"
   ],
   "author": {
-    "name": "psychobunny",
-    "email": "psycho.bunny@hotmail.com"
+    "name": "arif sorathia",
+    "email": "arsorathia@gmail.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/psychobunny/nodebb-plugin-quickstart/issues"
+    "url": "https://github.com/karatehealth/nodebb-plugin-landingpage-v1"
   },
   "readmeFilename": "README.md",
   "nbbpm": {
