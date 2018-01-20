@@ -1,6 +1,6 @@
 "use strict";
 
-plugin = {};
+var plugin = {};
 
 plugin.load = function (params, callback) {
 
