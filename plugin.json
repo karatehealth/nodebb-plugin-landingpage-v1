@@ -4,7 +4,7 @@
 	"library": "./library.js",
 	"hooks": [
 		{
-			"hook": "static:app.load", "method": "init"
+			"hook": "static:app.load", "method": "load"
 		}
 	],
 	"staticDirs": {
